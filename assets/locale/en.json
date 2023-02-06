@@ -1,0 +1,51 @@
+{
+  "language": "Language",
+  "ar": "Arabic",
+  "en": "English (USA)",
+  "hi": "Hindi",
+  "ta": "Tamil",
+
+  "themeMode": "Theme mode",
+  "lightTheme": "Light theme",
+  "darkTheme": "Dark theme",
+  "systemTheme": "System theme",
+
+  "login": "LOGIN",
+  "logout": "Logout",
+
+  "email": "Email",
+  "password": "Password",
+  "forget_password": "Forget Password",
+  "login_with_email": "LOGIN WITH EMAIL",
+  "sign_in_with_face_id": "SIGN IN WITH FACE ID",
+  "or": " OR ",
+  "check_email": "Check your Entered Email",
+  "check_password": "Check your Entered Password",
+
+  "welcome_durai": "WELCOME, DURAI",
+  "check_in":"CHECK IN,",
+  "earn_reward": "EARN REWARD",
+
+  "location_list": "Location List",
+  "forget_card_code": "Forget card code",
+  "egift_card": "E gift card",
+  "refer_a_friend": "Refer a Friend",
+  "order_history": "Order History",
+  "facebook": "Facebook",
+
+  "dataNotFoundMessage": "Data not found!",
+  "dioRequestCancellation": "Request cancellation",
+  "dioConnectionTimeOut": "Connection timed out",
+  "dioRequestTimeOut": "Request timed out",
+  "dioResponseTimeout": "Response timeout",
+  "dioRequestSyntaxError": "Request syntax error",
+  "dioServerRefusedToExecute": "Server refused to execute",
+  "dioNotConnectServer": "Can not connect to the server",
+  "dioRequestForbidden": "Request method is forbidden",
+  "dioServerInternalError": "Server internal error",
+  "dioInvalidRequest": "Invalid request",
+  "dioServerDown": "Server is down",
+  "dioHttpNotSupport": "Does not support HTTP protocol request",
+  "dioUnknownMistake": "Unknown mistake",
+  "dioUnknownError": "Unknown error"
+}

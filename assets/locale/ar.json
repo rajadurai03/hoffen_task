@@ -1,0 +1,54 @@
+{
+  "language": "لغة",
+  "ar": "عربى",
+  "en": "الإنجليزية",
+  "hi": "الهينيدي",
+  "ta": "التاميل",
+
+  "themeMode": "وضع الموضوع",
+  "lightTheme": "مظهر خفيف",
+  "darkTheme": "مظهر داكن",
+  "systemTheme": "موضوع النظام",
+
+  "login": "تسجيل الدخول",
+  "logout": "تسجيل خروج",
+
+  "email": "بريد إلكتروني",
+  "password": "كلمة المرور",
+  "forget_password": "نسيت كلمة المرور",
+  "login_with_email": "تسجيل الدخول عبر البريد الإلكتروني",
+  "sign_in_with_face_id": "تسجيل الدخول باستخدام معرف الوجه",
+  "or": " أو ",
+  "check_email": "تحقق من بريدك الإلكتروني الذي أدخلته",
+  "check_password": "تحقق من كلمة المرور المدخلة",
+
+  "welcome_durai": "مرحباً, DURAI",
+  "check_in":" تسجيل الدخول ،",
+  "earn_reward": "اربح المكافأة",
+
+  "location_list": "قائمة المواقع",
+  "forget_card_code": "نسيت رمز البطاقة",
+  "egift_card": "بطاقة الهدايا الإلكترونية",
+  "refer_a_Friend": "إحالة صديق",
+  "order_history": "سجل الطلبات",
+  "facebook": "فيسبوك",
+
+
+
+
+  "dataNotFoundMessage": "لم يتم العثور على بيانات!",
+  "dioRequestCancellation": "طلب الغاء",
+  "dioConnectionTimeOut": "انتهت مدة الاتصال",
+  "dioRequestTimeOut": "الطلب منتهي المدة",
+  "dioResponseTimeout": "مهلة الاستجابة",
+  "dioRequestSyntaxError": "طلب خطأ في بناء الجملة",
+  "dioServerRefusedToExecute": "رفض الخادم للتنفيذ",
+  "dioNotConnectServer": "لا يمكن الاتصال بالخادم",
+  "dioRequestForbidden": "طريقة الطلب محظورة",
+  "dioServerInternalError": "خطأ داخلي في الخادم",
+  "dioInvalidRequest": "طلب غير صالح",
+  "dioServerDown": "الخادم معطل",
+  "dioHttpNotSupport": "لا يدعم طلب بروتوكول HTTP",
+  "dioUnknownMistake": "خطأ غير معروف",
+  "dioUnknownError": "خطأ غير معروف"
+}

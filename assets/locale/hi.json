@@ -1,0 +1,52 @@
+{
+  "language": "भाषा",
+  "ar": "अरबी",
+  "en": "अंग्रेज़ी",
+  "hi": "हिन्दी",
+  "ta": "तामिल",
+
+  "themeMode": "थीम मोड",
+  "lightTheme": "लाइट थीम",
+  "darkTheme": "डार्क थीम",
+  "systemTheme": "सिस्टम थीम",
+
+  "login": "लॉगिन",
+  "logout": "लॉगआउट",
+
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "forget_password": "पासवर्ड भूल गए",
+  "login_with_email": "ईमेल से लॉग इन करें",
+  "sign_in_with_face_id": "फेस आईडी से साइन इन करें",
+  "or": " या ",
+  "check_email": "अपना दर्ज ईमेल जांचें",
+  "check_password": "अपना दर्ज पासवर्ड जांचें",
+
+  "welcome_durai": "स्वागत है, दुरई",
+  "check_in":"चेक इन करें,",
+  "earn_reward": "इनाम कमाएँ",
+
+  "location_list": "स्थान सूची",
+  "forget_card_code": "कार्ड कोड भूल जाएं",
+  "egift_card": "ई-उपहार कार्ड",
+  "refer_a_friend": "एक दोस्त को रेफर करें",
+  "order_history": "आदेश इतिहास",
+  "facebook": "फेसबुक",
+
+
+  "dataNotFoundMessage": "Data not found!",
+  "dioRequestCancellation": "Request cancellation",
+  "dioConnectionTimeOut": "Connection timed out",
+  "dioRequestTimeOut": "Request timed out",
+  "dioResponseTimeout": "Response timeout",
+  "dioRequestSyntaxError": "Request syntax error",
+  "dioServerRefusedToExecute": "Server refused to execute",
+  "dioNotConnectServer": "Can not connect to the server",
+  "dioRequestForbidden": "Request method is forbidden",
+  "dioServerInternalError": "Server internal error",
+  "dioInvalidRequest": "Invalid request",
+  "dioServerDown": "Server is down",
+  "dioHttpNotSupport": "Does not support HTTP protocol request",
+  "dioUnknownMistake": "Unknown mistake",
+  "dioUnknownError": "Unknown error"
+}

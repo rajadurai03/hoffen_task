@@ -1,0 +1,17 @@
+ {
+
+    "default_currency": "$",
+    "fcm_key": "AAAA50743pk:APA91bEuEa3X8VW3T-XURhSLKzDyxJcRayUOp3qLdDVEvzZjF5zuyRjeepZfMruW88RlBtU28Fnnz6IZrMH3muRtjr6KnH8BUQQ2ql_eHgOS0J-ymXiu0NUfAqL3ENSCIoGo-IJ_iygv",
+    "enable_paypal": "1",
+    "default_theme": "light",
+    "google_maps_key": "AIzaSyAxveCxiiKdjldpw8BwjtaKAJ5HUgwySYc",
+    "mobile_language": "en_US",
+    "app_version": "1.0.0",
+    "enable_version": "1",
+    "currency_right": "0",
+    "default_currency_decimal_digits": 2,
+     "agro_APP_ID" :"20b3e655f753446abbc4d80c893fee56",
+     "agro_Token" :"006e8674d5b2939494ab0bdf82eb14c6c6bIACp7Tw9uIxlEV5zpQqigW/bt8z5SuQYDHDKTVcjhKmTbNJjSIgAAAAAEAD1z9KPB54EYgEAAQAGngRi"
+
+
+ }

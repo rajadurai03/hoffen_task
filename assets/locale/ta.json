@@ -1,0 +1,51 @@
+{
+  "language": "மொழி",
+  "ar": "அரபு",
+  "en": "ஆங்கிலம் (அ)",
+  "hi": "ஹிந்தி",
+  "ta": "தமிழ்",
+
+  "themeMode": "தீம் பயன்முறை",
+  "lightTheme": "சாதாரண தீம்",
+  "darkTheme": "இருண்ட தீம்",
+  "systemTheme": "அமைப்பு தீம்",
+
+  "login": "உள்நுழைய",
+  "logout": "வெளியேறு",
+
+  "email": "மின்னஞ்சல்",
+  "password": "கடவுச்சொல்",
+  "forget_password": "கடவுச்சொல்லை மறந்து",
+  "login_with_email": "மின்னஞ்சலுடன் உள்நுழைக",
+  "sign_in_with_face_id": "முக அடையாளத்துடன் உள்நுழையவும்",
+  "or": " அல்லது ",
+  "check_email": "நீங்கள் உள்ளிட்ட மின்னஞ்சலைச் சரிபார்க்கவும்",
+  "check_password": "நீங்கள் உள்ளிட்ட கடவுச்சொல்லைச் சரிபார்க்கவும்",
+
+  "welcome_durai": "வெல்கம், துரை",
+  "check_in":"செக் இன்,",
+  "earn_reward": "வெகுமதியைப் பெறு",
+
+  "location_list": "இருப்பிட பட்டியல்",
+  "forget_card_code": "அட்டைக் குறியீட்டை மறந்துவிடு",
+  "egift_card": "இ பரிசு அட்டை",
+  "refer_a_friend": "ஒரு நண்பரைப் பார்க்கவும்",
+  "order_history": "ஆர்டர் வரலாறு",
+  "facebook": "பேஸ்புக்",
+
+  "dataNotFoundMessage": "Data not found!",
+  "dioRequestCancellation": "Request cancellation",
+  "dioConnectionTimeOut": "Connection timed out",
+  "dioRequestTimeOut": "Request timed out",
+  "dioResponseTimeout": "Response timeout",
+  "dioRequestSyntaxError": "Request syntax error",
+  "dioServerRefusedToExecute": "Server refused to execute",
+  "dioNotConnectServer": "Can not connect to the server",
+  "dioRequestForbidden": "Request method is forbidden",
+  "dioServerInternalError": "Server internal error",
+  "dioInvalidRequest": "Invalid request",
+  "dioServerDown": "Server is down",
+  "dioHttpNotSupport": "Does not support HTTP protocol request",
+  "dioUnknownMistake": "Unknown mistake",
+  "dioUnknownError": "Unknown error"
+}
